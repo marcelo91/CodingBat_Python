@@ -7,7 +7,6 @@ Welcome to the Python Exercises Repository! 🐍 This repository contains a coll
 1. [Introduction](#introduction)
 2. [How to Use](#how-to-use)
 3. [Contributing](#contributing)
-4. [License](#license)
 
 ## 🌟 Introduction
 
@@ -68,9 +67,6 @@ If you would like to contribute to this repository by adding new exercises, impr
 
 5. Open a pull request on the [main repository](https://github.com/your-username/python-exercises) with a detailed description of your changes.
 
-## 📄 License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔗 Exercises Source
 
