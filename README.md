@@ -1,15 +1,15 @@
 # Python Exercises Repository
 
-Welcome to the Python Exercises Repository! This repository contains a collection of Python exercises to help you practice and improve your Python programming skills.
+Welcome to the Python Exercises Repository! 🐍 This repository contains a collection of Python exercises to help you practice and improve your Python programming skills.
 
-## Table of Contents
+## 📚 Table of Contents
 
 1. [Introduction](#introduction)
 2. [How to Use](#how-to-use)
 3. [Contributing](#contributing)
 4. [License](#license)
 
-## Introduction
+## 🌟 Introduction
 
 This repository is a curated collection of Python exercises covering a variety of topics, including but not limited to:
 
@@ -24,7 +24,7 @@ This repository is a curated collection of Python exercises covering a variety o
 
 Feel free to use these exercises to reinforce your understanding of Python concepts or to challenge yourself as you learn. Each exercise is accompanied by a brief description to guide you.
 
-## How to Use
+## 🚀 How to Use
 
 1. Clone the repository to your local machine:
 
@@ -42,7 +42,7 @@ Feel free to use these exercises to reinforce your understanding of Python conce
 
 4. If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/your-username/python-exercises/issues).
 
-## Contributing
+## 🤝 Contributing
 
 If you would like to contribute to this repository by adding new exercises, improving existing ones, or fixing issues, please follow these steps:
 
@@ -68,7 +68,13 @@ If you would like to contribute to this repository by adding new exercises, impr
 
 5. Open a pull request on the [main repository](https://github.com/your-username/python-exercises) with a detailed description of your changes.
 
-## License
+## 📄 License
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🔗 Exercises Source
+
+The exercises in this repository are sourced from [CodingBat](https://codingbat.com/python), a fantastic resource for Python practice problems. CodingBat provides a wide range of Python exercises to reinforce various programming concepts.
+
+Feel free to visit [CodingBat - Python](https://codingbat.com/python) for additional exercises and a platform to check your solutions.
 
